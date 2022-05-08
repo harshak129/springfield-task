@@ -1,0 +1,150 @@
+body{
+  background-color: #35589A;
+}
+
+h1{
+  color: #ffffff;
+  font-size: 2.2rem;
+  font-family: "Mulish",sans-serif;
+  line-height: 1.5;
+  margin-left: 200px;
+  padding-top: 50px;
+}
+
+
+a{
+  text-decoration: underline;
+  color: blue;
+}
+
+
+.main-div{
+  background-color: #053870;
+  margin:  50px 250px 50px 250px;
+}
+
+.emblem{
+  width: 42px;
+  height: 42px;
+float: left;
+padding: 60px 100px 50px 50px;
+}
+
+.link{
+  color: white;
+}
+
+.paragraph{
+font-family: 'Roboto', sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #ffffff;
+  width: 70%;
+  padding-left: 50px;
+}
+
+/* Form div */
+
+.top-div{background-color: white;
+}
+
+
+.upper-div{
+  padding: 20px 0 0 0;
+
+
+      background-color: white;
+}
+
+.form-div{
+    background-color: white;
+  margin: 70px 50px 70px 50px;
+
+}
+
+.feedback-form{
+  background-color: white;
+
+font-family: 'Basic', sans-serif;
+word-spacing: 1px;
+  line-height: 1.5;
+}
+
+
+
+x-star-rating {
+    font-family: 'Ionicons';
+    font-size: 48px;
+    display: inline-flex;
+    cursor: pointer;
+}
+
+x-star-rating > .star::after {
+    content: '\f3ae';
+    color: #777;
+}
+
+x-star-rating > .star.full::after {
+    content: '\f2fc';
+    color: #fd0;
+}
+
+
+.form-div{
+    background-color: white;
+  padding: 70px 50px 70px 50px;
+  margin: 0;
+}
+
+.form-labels{
+  padding-bottom: 30px;
+}
+
+.form-inputs{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: solid 0.5px;
+  border-radius: 0;
+  padding: 10px 550px 10px 0;
+}
+
+.submit-btn{
+  text-align: center;
+    background-color: #053870;
+    color: white;
+    font-size: 0.8rem;
+    border: transparent ;
+    border-radius: 0;
+    margin-top: 20px;
+    padding: 10px 60px 10px 60px;
+}
+
+.submit-btn:hover{
+  background-color: black;
+}
+
+.report{
+float: left;
+color: black;
+  font-size: 0.8rem;
+font-family: 'Roboto', sans-serif;
+}
+
+/* Footer */
+.footer{
+  background-color: silver;
+
+  margin-top: 40px;
+}
+
+.desclaimer{
+    padding: 20px 50px 20px 50px;
+color: black;
+  font-size: 0.8rem;
+font-family: 'Roboto', sans-serif;
+}
+
+a{
+  text-decoration: underline;
+  color: blue;
+}
